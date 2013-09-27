@@ -24,7 +24,7 @@ public class APP {
 	
 	
 	private void init() {
-		
+		int i=1;
 	}
 
 }
