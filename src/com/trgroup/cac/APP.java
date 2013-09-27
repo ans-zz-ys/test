@@ -21,5 +21,10 @@ public class APP {
 
 		}
 	}
+	
+	
+	private void init() {
+		
+	}
 
 }
